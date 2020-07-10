@@ -1,0 +1,55 @@
+
+body{
+    background-image: url("../img/unicorn.jpg");
+    width: auto;
+    height: auto;
+    color: greenyellow;
+    font-family:monospace;
+}
+
+#app{
+    text-align: center;
+}
+
+h1{
+    font-size: 75px;
+    text-align: center;
+}
+
+h2{
+    font-size: 50px
+}
+
+#table1, #table2, #table3, #table4 {
+    border-style: outset;
+    border-color: aliceblue;
+    margin-top: 50px;   
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+#title1, #title2, #title3, #title4, #title5 {
+    margin-bottom: 20px;
+}
+
+#title5{
+    margin-top: 50px;
+}
+#barn, #field, #woods, #lake{
+    font-size: 25px;
+
+}
+
+label, select, button{
+    font-size: 25px;
+}
+
+select:hover{
+    background-color: greenyellow;
+    cursor: pointer;
+}
+
+#submit:hover{
+    background-color: greenyellow;
+    cursor: pointer;
+}
